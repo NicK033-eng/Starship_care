@@ -1,0 +1,18 @@
+streamlit>=1.35.0
+sqlalchemy>=2.0.0
+pandas>=2.0.0
+google-generativeai
+python-dotenv
+ddgs
+beautifulsoup4
+requests
+
+
+## streamlit run ui/app.py
+
+
+
+# TO UPDATE
+# riquadro per note personali con stampa data ( incrementale ? Anche filtro increm ? )
+# filtraggio per note personali
+# come viene gestito dopo l'aggiornamento note, il cli agent le riscrive ? come mai sparisce l'anagrafica dall'elenco ?

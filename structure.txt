@@ -1,0 +1,21 @@
+crm_lead/
+├── core/
+│   ├── __init__.py
+│   └── database.py
+├── models/
+│   └── lead_model.py
+├── repositories/
+│   ├── base_repo.py
+│   └── lead_repo.py
+├── services/
+│   └── lead_service.py
+├── ui/
+│   └── app.py
+├── config.py
+├── main.py
+├── requirements.txt
+└── outputs/
+    └── outbound_report/
+           └── Output_lead_for_LLM/
+    └── inbound_salesforce/
+        └── 06_06_2026_lead_1.csv
